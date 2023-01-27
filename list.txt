@@ -1,0 +1,15 @@
+pytest
+pytest-cov
+
+ruff
+black
+
+connectorx
+pandas
+pyarrow
+polars
+sqlalchemy
+setuptools
+psycopg2
+pyodbc
+pymysql
